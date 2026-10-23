@@ -20,7 +20,7 @@ workflows:
 
         distribution_type: app_store
 
-        bundle_identifier:com.XQHomeLedger.kcmrs
+        bundle_identifier: com.XQHomeLedger.kcmrs
 
 
       vars:
